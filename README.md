@@ -1,4 +1,4 @@
-# radar
+# Stats Buddy
 
 A new Flutter application.
 
