@@ -1,11 +1,21 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-A COVID application written in Flutter which provide active, recovered, total, dead in following categories:
+A COVID application written in Flutter which provide active cases, recovered cases, total cases, dead cases in the following categories:
 
 * `World`
-* `State WiseI ndia`
+* `State Wise India`
 * `Country Wise`
+
+
+It has features like:
+
+* `Dashboard`
+* `WHO Helpline`
+* `Indian Government Helpline`
+* `FAQ`
+* `Top Case Countries List`
+
 
 
 <!-- CONTRIBUTING -->
