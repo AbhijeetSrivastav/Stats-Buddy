@@ -40,9 +40,3 @@ Distributed under the `Apache License 2.0`
 ## Social Handles
 * [Instagram](https://www.instagram.com/techneophyte/)
 * [LinkedIn](https://www.linkedin.com/in/abhijeet-srivastav-02245a18b/)
-* [Medium](https://abhijeetsrivastav-techneophyte.medium.com/about)
-* [Youtube](https://www.youtube.com/channel/UCpSSZFXUrzE0wMAwZLD5yRg)
-* [HackerRank](https://www.hackerrank.com/abhijeetsrivast7)
-* [Telegram Community](https://t.me/techneophytecommunity)
-* [Whatsapp Community](https://chat.whatsapp.com/EyQtkNlHQgE7AX7MBTkPsm)
-
